@@ -1,8 +1,8 @@
-
+<hr padding="30px"
 <div align="center">
     <a href="https://github.com/Murillopy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murillopy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillopy&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillopy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -16,6 +16,5 @@
 
 <div>
     <a href = "mailto:murillopy@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.linkedin.com/in/murillopy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/Murillopy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href = "https://www.linkedin.com/in/murillopy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "https://twitter.com/Murillopy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>

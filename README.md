@@ -9,7 +9,6 @@
     <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=currentColor">
     <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=currentColor">
     <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor">
-    <img src="https://icongr.am/devicon/php-original.svg?size=44&color=currentColor">
     <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor">
 </div>
  <hr>

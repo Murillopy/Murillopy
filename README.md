@@ -12,6 +12,7 @@
     <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor">
     <img src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor">
     <img src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=currentColor">
+<img src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor">
 </div>
  <hr>
 
